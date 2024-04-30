@@ -1,5 +1,6 @@
 # Pong game with Neat AI
 โปรเจค Machine Learning ในรายวิชา 240-318 Artificial Intelligence and Machine learning Yr3 1/2566
+
 วิธีเล่น
 1. ติดตั้ง library ด้วยคำสั่ง "pip install -r requirements.txt"
 2. พิมพ์คำสั่ง "py Ponggame_ProJ.py"
